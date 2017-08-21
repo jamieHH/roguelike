@@ -1,0 +1,7 @@
+NAME Wooden Barrel
+TYPE i
+KEY  U
+POSX i
+POSY i
+KLVL 1
+INVY defaultInv

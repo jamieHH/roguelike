@@ -1,0 +1,5 @@
+NAME relic
+TYPE i
+LEVL 001
+VLUE 020
+WGHT 008

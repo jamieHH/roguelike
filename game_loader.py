@@ -1,0 +1,5 @@
+SRC = 'src'
+REGIONS = 'Regions'
+ENTITIES = 'Assets/Entities'
+Inventories = 'Assets/Inventories'
+Items = 'Assets/Items'

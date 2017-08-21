@@ -1,0 +1,15 @@
+NAME Snake
+TYPE i
+BIO  Large flat headed snake.
+KEY  S
+INVY none
+FACE north
+LOCA Test World
+POSX i
+POSY i
+LEVL 2
+HLTH 20
+STAM 100
+SRTH 1
+PROT 0 
+DAMG 11

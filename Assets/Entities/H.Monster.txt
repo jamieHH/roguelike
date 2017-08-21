@@ -1,0 +1,15 @@
+NAME Scary Monster
+TYPE i
+BIO  A tall grey creature.
+KEY  M
+INVY none
+FACE north
+LOCA Test World
+POSX i
+POSY i
+LEVL 4
+HLTH 120
+STAM 100
+SRTH 5
+PROT 0 
+DAMG 20

@@ -1,0 +1,4 @@
+DefaultInvy
+150
+I.relic
+W.Rusty Iron Sword

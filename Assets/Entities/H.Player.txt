@@ -1,0 +1,15 @@
+NAME Player 1
+TYPE i
+BIO  You
+KEY  @
+INVY defaultInv
+FACE north
+LOCA Test World
+POSX i
+POSY i
+LEVL 1
+HLTH 100
+STAM 100
+SRTH 1
+PROT 0 
+DAMG 5
